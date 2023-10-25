@@ -1,0 +1,8 @@
+1. Inicio
+2. Pedir la longitud de la base del triangulo
+3. Leer la longitus de la base del triangulo
+4. Pedir la altura del triangulo
+5. Leer la altura del triangulo
+6. Calcular el area del triangulo que es igual (base * altura)/2
+7. Mostrar el calculo del area del triangulo
+8. Fin
